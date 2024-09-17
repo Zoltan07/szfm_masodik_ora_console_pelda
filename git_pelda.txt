@@ -1,4 +1,5 @@
 git clone
 git add git_pelda.txt
 git commit -m "git_pelda.txt"
-mindegy
+git push
+git pull
